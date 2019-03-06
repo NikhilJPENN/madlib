@@ -1,0 +1,4 @@
+I am [name] 
+I am very [adjective] Person
+I study at Upenn in [name of program] program 
+I have [number] jackets and [large number] shoes
